@@ -3,7 +3,7 @@
 	 DB: MS SQL server
 	 ORM: Entity Framework
 	 Back-end: C#, ASP.NET Core WEB API.
-	 Front-end: Angular, CSS/SCSS, HTML.
+	 Front-end: Angular, CSS, HTML.
 	 Documentation: Swagger
 
 	
